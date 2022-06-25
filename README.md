@@ -2,7 +2,7 @@
 
 ## Forms
 
-This projeck is a simple step tracker - you can choose a date and add the distance.
+This is a simple HEX to RGB converter.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
